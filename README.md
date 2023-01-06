@@ -1,10 +1,12 @@
 # Portuguese_banking_institution
+
 *Project Introduction
-*In this project you will be provided with real world data which is related with direct marketing campaigns (phone calls) of a Portuguese banking institution.
 
-*The classification goal is to predict if the client will subscribe a term deposit (variable y).
+In this project you will be provided with real world data which is related with direct marketing campaigns (phone calls) of a Portuguese banking institution.
 
-*Now that you have your dataset , let us go through the problems one by one!
+The classification goal is to predict if the client will subscribe a term deposit (variable y).
+
+Now that you have your dataset , let us go through the problems one by one!
 
 1.Section I : Data Loading
 Part I : Load the dataset into the notebook
